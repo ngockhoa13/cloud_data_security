@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gpGGjy-_kouJQ9TzN7E--45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;S3 Endpoint&lt;/b&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" parent="gpGGjy-_kouJQ9TzN7E--2" vertex="1">
-          <mxGeometry x="980" y="1000" width="48" height="48" as="geometry" />
+          <mxGeometry x="980" y="980" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
